@@ -2,7 +2,7 @@ package learnbyteaching.guestbook.dao;
 
 
 public class GuestbookDaoImpl {
-	extends BaseDao 
+	extends BaseDao
 	implements GuestbookDao {
 		
 		
